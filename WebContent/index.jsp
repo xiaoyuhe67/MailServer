@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="Index" id="myform" name="myform">
+<form action="gmail" id="myform" name="myform">
 <div>Subject: <input type="text" name="subject" id="subject" value=""/></div>
 <div>Message: <input type="text" name="Message" id="Message" value=""/></div>
 
